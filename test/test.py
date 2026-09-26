@@ -1,3 +1,4 @@
-import src.main
+import sys
 
 
+print(sys.argv)
